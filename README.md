@@ -4,6 +4,16 @@ We are excited to announce that our paper *"Impact of Stickers on Multimodal Sen
 
 This repository contains the **MSAIRS dataset** and associated **code** for multimodal sentiment analysis and intent recognition involving stickers in social media conversations. The dataset and model implementation are designed to tackle the task of jointly predicting sentiment and intent in multimodal contexts, such as text and stickers. This resource is meant to assist researchers and practitioners in understanding and analyzing the influence of stickers in communication.
 
+### Download Stickers
+
+We have shared all the stickers from MSAIRS via Quark Cloud. Download them using the link below:
+
+- **Sticker download link**: (https://pan.quark.cn/s/4f51fcfbfe51?pwd=nkUi)
+- **Extraction code**: nkUi
+
+Please copy the link or click on it, and open it with the Quark APP to get all the stickers.
+
+
 ### Dataset Example
 
 The dataset contains the following key fields:
